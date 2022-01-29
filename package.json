@@ -1,0 +1,36 @@
+{
+  "name": "real-estate-ui",
+  "version": "1.0.0",
+  "description": "Front-End for Real-Estate app",
+  "main": "index.js",
+  "repository": "https://github.com/rvanwyk9191/real-estate-ui",
+  "author": "Reinhardt van Wyk",
+  "license": "R & D",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@material-ui/icons": "^4.11.2",
+    "@mui/icons-material": "^5.3.1",
+    "@mui/material": "^5.3.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "^5.0.0",
+    "typescript": "^4.5.5"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
